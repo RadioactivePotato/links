@@ -6,8 +6,14 @@ https://studio.youtube.com
 
 https://reddit.com
 
+https://discord.com
+
 https://surf.karmaisadick.repl.co
 
 https://eaglercraft.ru
 
-https://discord.com
+https://radioactivepotato.me
+
+https://cupid.radioactivepotato.me
+
+https://cupid.radioactivepotato.live
