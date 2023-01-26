@@ -30,7 +30,11 @@ https://minecraft.net
 
 https://classic.minecraft.net
 
+#### Now.gg
+
 https://now.gg
+
+https://now.gg/roblox
 
 ## Other
 
