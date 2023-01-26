@@ -1,4 +1,4 @@
-# Google
+## Google
 
 https://google.com
 
@@ -6,25 +6,25 @@ https://maps.google.com
 
 https://classroom.google.com
 
-## YouTube
+#### YouTube
 
 https://youtube.com
 
 https://studio.youtube.com
 
-# Socials
+## Socials
 
 https://reddit.com
 
 https://discord.com
 
-# Fun
+## Fun
 
 https://surf.karmaisadick.repl.co
 
 https://eaglercraft.ru
 
-# Other
+## Other
 
 https://radioactivepotato.me
 
