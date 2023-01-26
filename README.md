@@ -30,6 +30,8 @@ https://minecraft.net
 
 https://classic.minecraft.net
 
+https://now.gg
+
 ## Other
 
 https://radioactivepotato.me
