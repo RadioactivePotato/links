@@ -24,6 +24,10 @@ https://surf.karmaisadick.repl.co
 
 https://eaglercraft.ru
 
+https://play.geforenow.com
+
+https://minecraft.net
+
 ## Other
 
 https://radioactivepotato.me
