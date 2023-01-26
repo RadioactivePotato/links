@@ -1,5 +1,7 @@
 https://google.com
 
+https://maps.google.com
+
 https://youtube.com
 
 https://studio.youtube.com
