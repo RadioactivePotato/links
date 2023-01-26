@@ -38,7 +38,9 @@ https://classic.minecraft.net
 
 https://now.gg
 
-https://now.gg/roblox
+https://kxd.fm/roblox
+
+https://kxd.fm/nowgg
 
 ## Other
 
