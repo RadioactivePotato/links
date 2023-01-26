@@ -28,6 +28,8 @@ https://play.geforenow.com
 
 https://minecraft.net
 
+https://classic.minecraft.net
+
 ## Other
 
 https://radioactivepotato.me
