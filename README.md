@@ -42,6 +42,10 @@ https://kxd.fm/roblox
 
 https://kxd.fm/nowgg
 
+https://now.gg/play/roblox-corporation/5349/roblox
+
+https://now.gg/play/mojang/2534/minecraft-trial
+
 ## Other
 
 https://radioactivepotato.me
