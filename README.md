@@ -16,7 +16,7 @@ https://studio.youtube.com
 
 https://reddit.com
 
-https://discord.com
+https://discord.com/app
 
 https://twitch.tv
 
