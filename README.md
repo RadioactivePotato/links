@@ -57,3 +57,5 @@ https://cupid.radioactivepotato.me
 https://cupid.radioactivepotato.live
 
 https://chrome100.dev
+
+https://koneclient.ga/redirect
