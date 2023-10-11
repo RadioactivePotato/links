@@ -2,6 +2,8 @@
 
 https://google.com
 
+https://mail.google.com
+
 https://maps.google.com
 
 https://classroom.google.com
