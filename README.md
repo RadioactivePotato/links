@@ -38,6 +38,8 @@ https://minecraft.net
 
 https://classic.minecraft.net
 
+https://geo-fs.com
+
 #### Now.gg
 
 https://now.gg
