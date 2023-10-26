@@ -62,4 +62,4 @@ https://cupid.radioactivepotato.live
 
 https://chrome100.dev
 
-https://koneclient.ga/redirect
+https://redirect.radioactivepotato.repl.co
