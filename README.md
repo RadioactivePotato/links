@@ -1,3 +1,17 @@
+## Personal
+
+https://vote1.arch.lol
+
+https://vote2.arch.lol
+
+https://vote3.arch.lol
+
+https://discord.com/app
+
+https://google.com
+
+https://mail.google.com
+
 ## Google
 
 https://google.com
