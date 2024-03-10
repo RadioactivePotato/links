@@ -1,16 +1,16 @@
 ## Personal
 
-https://vote1.arch.lol
-
-https://vote2.arch.lol
-
-https://vote3.arch.lol
-
 https://discord.com/app
 
 https://instagram.com
 
 https://radioactivepotato.github.io/redirect
+
+https://vote1.arch.lol
+
+https://vote2.arch.lol
+
+https://vote3.arch.lol
 
 ## Google
 
