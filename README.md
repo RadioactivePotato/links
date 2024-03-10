@@ -8,19 +8,15 @@ https://vote3.arch.lol
 
 https://discord.com/app
 
-https://google.com
+https://instagram.com
 
-https://mail.google.com
+https://radioactivepotato.github.io/redirect
 
 ## Google
 
 https://google.com
 
 https://mail.google.com
-
-https://maps.google.com
-
-https://classroom.google.com
 
 #### YouTube
 
@@ -36,15 +32,13 @@ https://discord.com/app
 
 https://twitch.tv
 
+https://instagram.com
+
 ## Fun
 
 https://surf.karmaisadick.repl.co
 
-https://eaglercraft.ru
-
-https://potatosmp.radioactivepotato.me
-
-https://potatosmpx.radioactivepotato.me
+https://eaglercraft.com
 
 https://play.geforenow.com
 
@@ -68,12 +62,4 @@ https://now.gg/play/mojang/2534/minecraft-trial
 
 ## Other
 
-https://radioactivepotato.me
-
-https://cupid.radioactivepotato.me
-
-https://cupid.radioactivepotato.live
-
 https://chrome100.dev
-
-https://redirect.radioactivepotato.repl.co
