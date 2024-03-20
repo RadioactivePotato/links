@@ -6,6 +6,8 @@ https://instagram.com
 
 https://radioactivepotato.github.io/redirect
 
+https://chat.openai.com
+
 https://vote1.arch.lol
 
 https://vote2.arch.lol
